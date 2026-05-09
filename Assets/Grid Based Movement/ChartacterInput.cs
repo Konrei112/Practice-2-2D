@@ -98,7 +98,7 @@ public partial class @ChartacterInput: IInputActionCollection2, IDisposable
                     ""id"": ""c2fd766e-25fb-4508-93e8-75298cb791d5"",
                     ""expectedControlType"": ""Vector2"",
                     ""processors"": """",
-                    ""interactions"": """",
+                    ""interactions"": ""Press(pressPoint=0.5)"",
                     ""initialStateCheck"": false
                 }
             ],
@@ -118,7 +118,7 @@ public partial class @ChartacterInput: IInputActionCollection2, IDisposable
                     ""name"": ""2D Vector"",
                     ""id"": ""269a9d8e-70e1-4129-bc12-d90d38fe2c3d"",
                     ""path"": ""2DVector"",
-                    ""interactions"": ""Press"",
+                    ""interactions"": """",
                     ""processors"": ""NormalizeVector2"",
                     ""groups"": """",
                     ""action"": ""Movement"",
